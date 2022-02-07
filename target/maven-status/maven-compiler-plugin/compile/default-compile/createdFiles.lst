@@ -1,0 +1,4 @@
+edu\ntnu\idatt2001\Entities\Unit.class
+edu\ntnu\idatt2001\Entities\RangedUnit.class
+edu\ntnu\idatt2001\Entities\CavalryUnit.class
+edu\ntnu\idatt2001\Entities\InfantryUnit.class
