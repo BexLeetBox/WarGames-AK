@@ -1,4 +1,4 @@
-package edu.ntnu.idatt2001.Entities;
+package edu.ntnu.idatt2001.Wargames.Units;
 
 public abstract class Unit {
     private String name;

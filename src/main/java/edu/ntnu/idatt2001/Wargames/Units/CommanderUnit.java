@@ -1,4 +1,4 @@
-package edu.ntnu.idatt2001.Entities;
+package edu.ntnu.idatt2001.Wargames.Units;
 
 public class CommanderUnit extends CavalryUnit{
 
@@ -10,6 +10,6 @@ public class CommanderUnit extends CavalryUnit{
         super(name, health);
     }
 
-    
+
 
 }

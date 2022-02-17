@@ -1,5 +1,6 @@
-package edu.ntnu.idatt2001.Entities;
+package edu.ntnu.idatt2001.Wargames;
 
+import edu.ntnu.idatt2001.Wargames.Units.RangedUnit;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package edu.ntnu.idatt2001.Entities;
+package edu.ntnu.idatt2001.Wargames.Units;
 
 public class RangedUnit extends Unit{
 
@@ -21,4 +21,7 @@ public class RangedUnit extends Unit{
         //(this.getArmor()-2 > 2) ? getArmor()-2 : 2
         return armor;
     }
+
+
+
 }
